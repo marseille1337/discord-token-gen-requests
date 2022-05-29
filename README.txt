@@ -6,4 +6,4 @@ I don't want to waste my time on this project, but here is working gen made by m
 
 Enjoy, and dont ask shit questions about it, i will not anwser
 
-**Credits:** [github](https://github.com/Its-Vichy/working-token-gen)
+**Credits:** (github)[https://github.com/Its-Vichy/working-token-gen]
